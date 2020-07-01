@@ -149,7 +149,7 @@ var __decorate = (undefined && undefined.__decorate) || function (decorators, ta
 
 
 var routes = [
-    { path: 'tabcarousel', component: _datacarousel_datacarousel_component__WEBPACK_IMPORTED_MODULE_2__["DatacarouselComponent"] },
+    { path: '', component: _datacarousel_datacarousel_component__WEBPACK_IMPORTED_MODULE_2__["DatacarouselComponent"] },
     { path: 'datacarousel/config', component: _datacarousel_config_dialog_config_dialog_component__WEBPACK_IMPORTED_MODULE_3__["ConfigDialogComponent"] }
 ];
 var AppRoutingModule = /** @class */ (function () {
