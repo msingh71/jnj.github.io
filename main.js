@@ -556,7 +556,7 @@ var DatacarouselComponent = /** @class */ (function () {
     }
     DatacarouselComponent.prototype.getPageStyle = function () {
         return {
-            'height': '100vh', 'backgroundImage': 'url(../../../assets/images/' + this.page.backgroundimage + ')',
+            'height': '100vh', 'backgroundImage': 'url(../../assets/images/' + this.page.backgroundimage + ')',
             'backgroundSize': 'cover', 'backgroundRepeat': 'no-repeat', 'backgroundColor': this.page.backgroundcolor
         };
     };
