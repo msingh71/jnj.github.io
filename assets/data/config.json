@@ -1,0 +1,24 @@
+{
+    "selectedWorksheet": "",
+    "columns": [],
+    "tiles": {
+        "titleColor": "white",
+        "background": "dodgerblue",
+        "valueColor": "black",
+        "footer": ""
+    },
+    "page": {
+        "header": {
+            "text": "",
+            "background": "",
+            "color": ""
+        },
+        "backgroundcolor": "white",
+        "backgroundimage": "",
+        "footer": {
+            "text": "",
+            "background": "",
+            "color": ""
+        }
+    };
+}
