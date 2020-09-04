@@ -16,9 +16,9 @@
         "backgroundcolor": "white",
         "backgroundimage": "bg_pharma.jpg",
         "footer": {
-            "text": "J&J Patent Law Department - Confidential Information - Internal Use Only",
+            "text": "",
             "background": "",
-            "color": "white"
+            "color": ""
         }
     }
 }
